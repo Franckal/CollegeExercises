@@ -1,4 +1,4 @@
-# Exercise 1
+# Graph Exercise
 
 💥 Author: Franck Allyson da SIlva Rocha  
 
